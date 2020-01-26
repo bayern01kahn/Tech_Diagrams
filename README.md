@@ -1,5 +1,8 @@
 # Java_Diagrams
 
+new version baseed on  draw.io
+
+
 图化 java核心知识点
 
 集各方之智
@@ -14,3 +17,4 @@
 
 5.JVM运行时数据区
 
+6.AQS及相关类-各种关系和流程图
