@@ -1,13 +1,10 @@
 # Tech_Diagrams
-
 new version baseed on  draw.io
-
-
 图化-后端技术核心知识点 (集各方之智)
 
 
 
-Java
+# Java
 
 1.对象创建及分配
 
@@ -27,19 +24,19 @@ Java
 
 
 
-Kafka
+# Kafka
 
-Redis
+# Redis
 
-Cassandra
+# Cassandra
 
-Elastic Search
+# Elastic Search
 
-分布式
-1.分布式事务
-2.分布式锁
-3.数据与缓存一致性
-4.一致性算法
+# 分布式
+  1.分布式事务
+  2.分布式锁
+  3.数据与缓存一致性
+  4.一致性算法
 
 
 
