@@ -1,10 +1,10 @@
 # Tech_Diagrams
-new version baseed on  draw.io
-图化-后端技术核心知识点 (集各方之智)
+* New version baseed on draw.io
+* 图化-后端技术核心知识点 (集各方之智)
 
 
 
-# Java
+## Java
 
 1.对象创建及分配
 
@@ -24,16 +24,16 @@ new version baseed on  draw.io
 
 
 
-# Kafka
+## Kafka
 
-# Redis
+## Redis
 
-# Cassandra
+## Cassandra
 
-# Elastic Search
+## Elastic Search
 
 
-# 分布式
+## 分布式
 
 1.分布式事务
 
