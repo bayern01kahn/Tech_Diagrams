@@ -1,6 +1,6 @@
 # Tech_Diagrams
-* New version baseed on draw.io
-* 图化-后端技术核心知识点 (集各方之智)
+* Baseed on draw.io
+* All stack tech summary
 
 
 
@@ -22,13 +22,21 @@
 
 
 
+## DB
 
+1. #### mysql
+
+2. ### Cassandra
+
+
+
+## Middleware
+
+### 
 
 ## Kafka
 
 ## Redis
-
-## Cassandra
 
 ## Elastic Search
 
@@ -42,6 +50,14 @@
 3.数据与缓存一致性
 
 4.一致性算法
+
+## Cloud
+
+
+
+## Node
+
+## Kubernetes
 
 
 
