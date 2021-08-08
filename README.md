@@ -23,3 +23,44 @@
 |                    |                                                              |
 | 算法与数据结构     |                                                              |
 |                    |                                                              |
+
+
+
+
+
+
+
+
+---
+
+
+
+## 对象创建及分配
+![对象创建与分配](images/对象创建及分配.png)
+
+## 类加载
+![classload](images/类加载.png)
+
+## 锁
+![lock](images/锁.png)
+
+## AQS
+![aqs](images/AQS-及其关联的同步工具类-关系流程图.svg)
+
+## GC
+![gc](images/GC.png)
+
+## JVM
+![jvm](images/JVM.png)
+
+## ThreadPool
+![ThreadPool](images/ThreadPool.svg)
+
+
+---
+
+## ratelimiter
+![ratelimiter](images/ratelimiter.svg)
+
+
+
