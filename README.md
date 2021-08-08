@@ -220,8 +220,7 @@
 <br>
 
 # Example:
-
-## Java
+## Java (before 2020 version)
 
 | # | content | drawio |
 | --- | ------- | ------ |
