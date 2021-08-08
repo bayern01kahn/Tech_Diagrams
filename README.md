@@ -1,5 +1,5 @@
 # Tech_Diagrams  技术图鉴
-* 基于Draw.io 
+* 基于Draw.io
 * 个人收集和总结的所涉及到的一些全端技术流程分析,组织架构图
 * 持续学习更新中~
 
@@ -8,7 +8,7 @@
         <td>Name</td> 
         <td>Category</td> 
         <td>Content</td> 
-   </tr>
+    </tr>
     <tr>
         <td rowspan="4">Architecture</td>    
         <td>Distributed system</td>
@@ -35,9 +35,19 @@
     <tr>
         <td>性能优化</td>
         <td>
-            1.后端性能优化 
-            2.前端性能优化
+            1.后端性能优化  <br>
+            2.前端性能优化 <br>
         </td>
+    </tr>
+    </th columnspan="3">
+    <tr>
+        <td rowspan="1">Design</td>    
+        <td>DDD</td>
+        <td>
+            1.概念梳理 <br>
+            2.flow <br> 
+            3.UML  <br>
+        </td>  
     </tr>
     </th columnspan="3">
     <tr>
@@ -95,6 +105,41 @@
     </tr>    
     </th columnspan="3">
     <tr>
+        <td rowspan="2">DataBase</td>
+        <td>Mysql</td>
+        <td>
+            1.Core <br/>
+            2.Index <br/>
+            3.事务与锁 <br/>
+            4.执行计划 <br/> 
+            5.主从复制 <br/>
+        </td>
+    </tr>
+    <tr>
+        <td>Sap Hana</td>
+        <td>
+            1.Core <br/>
+        </td>
+    </tr>
+    </th columnspan="3">
+    <tr>
+        <td rowspan="2">Cloud</td>
+        <td>Kubernetes</td>
+        <td>
+            1.Core <br />
+            2.Kyma <br />
+            3.Deploy-workflow <br />
+            4.Network <br /> 
+        </td>
+    </tr>
+    <tr>
+        <td>CloudFoundry</td>
+        <td>
+            1.Core <br />
+        </td>
+    </tr>
+    </th columnspan="3">
+    <tr>
         <td rowspan="5">Java</td>
         <td>核心</td>
         <td>
@@ -131,29 +176,47 @@
             6.FastThreadLocal <br />
         </td>
     </tr>
+    <tr>
+        <td>Spring Security</td>
+        <td>
+            1.core <br />
+            2.认证流程 <br />
+            3.权限访问 <br />
+        </td>
+    </tr>
+    </th columnspan="3">
+    <tr>
+        <td rowspan="2">JavaScript</td>
+        <td>core</td>
+        <td>
+            1.Core <br />
+        </td>
+    </tr>
+    <tr>
+        <td>Node.js</td>
+        <td>
+            1.Core <br />
+            2.后端使用场景 <br />
+            3.Express  <br />
+            4.Koa  <br />
+            5.Egg  <br />
+            6.PM2-多进程管理器 <br /> 
+        </td>
+    </tr>
+    </th columnspan="3">
+    <tr>
+        <td rowspan="1">算法与数据结构</td>
+        <td>算法</td>
+        <td>
+            1.core <br>
+            2.sorting <br>
+        </td>
+    </tr>
 </table>
 
 
 <br>
 <br>
-<br>
----
-
-| Name               | Content                                                      |
-| ------------------ | ------------------------------------------------------------ |
-| Architecture       | DDD| 
-| Cloud Compute      | 1.GCP<br />2.Cloud Foundry                                   |
-| JavaScript         |                                                              |
-| Kubernetes         |                                                              |
-| Node               |                                                              |
-| RDBMS              | 1.Mysql                                                      |
-| Sap                | 1.Sap Hana                                                   |
-|                    |                                                              |
-| 算法与数据结构       |                                                              |
-|                    |                                                              |
-
-<br>
----
 <br>
 
 # Example:
@@ -170,17 +233,8 @@
 | 6 | JVM | ![jvm](images/JVM.png) |
 | 7 | ThreadPool | ![ThreadPool](images/ThreadPool.svg) |
 | 8 | Guava-Ratelimiter | ![ratelimiter](images/ratelimiter.svg) |
-| 9 | | |
-| 10 | | |
 
 
-
-
-
-
-
-
----
 
 
 
