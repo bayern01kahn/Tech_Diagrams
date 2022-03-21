@@ -123,13 +123,19 @@
     </tr>
     </th columnspan="3">
     <tr>
-        <td rowspan="2">Cloud</td>
+        <td rowspan="3">Cloud</td>
         <td>Kubernetes</td>
         <td>
             1.Core <br />
             2.Kyma <br />
             3.Deploy-workflow <br />
             4.Network <br /> 
+        </td>
+    </tr>
+    <tr>
+        <td>Istio</td>
+        <td>
+            1.Core <br />
         </td>
     </tr>
     <tr>
