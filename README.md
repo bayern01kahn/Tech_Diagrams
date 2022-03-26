@@ -1,7 +1,10 @@
 # Tech_Diagrams  技术图鉴
-* 基于Draw.io
+* 基于 [Drawio](https://github.com/jgraph/drawio-desktop)
+  Based on Drawio
 * 个人收集和总结的所涉及到的一些全端技术流程分析,组织架构图
-* 持续学习更新中~
+  Personal summarise and collect all-side Techical and Architecture Diagram. 
+* 持续学习更新中
+  Keep updating
 
 <table>
     <tr>
@@ -10,7 +13,7 @@
         <td>Content</td> 
     </tr>
     <tr>
-        <td rowspan="4">Architecture</td>    
+        <td rowspan="5">Architecture</td>    
         <td>Distributed system</td>
         <td>
             1.分布式存储 <br>
@@ -48,72 +51,30 @@
             1.后端性能优化  <br>
             2.前端性能优化 <br>
         </td>
-        <td></td>
     </tr>
     </th columnspan="3">
     <tr>
-        <td rowspan="1">Design</td>    
-        <td>DDD</td>
+        <td rowspan="3">Cloud</td>
+        <td>Kubernetes</td>
         <td>
-            1.概念梳理 <br>
-            2.flow <br> 
-            3.UML  <br>
-        </td>  
-    </tr>
-    </th columnspan="3">
-    <tr>
-        <td rowspan="6">MiddleWare</td>
-        <td>Elastic Stack</td>
-        <td>
-            1.架构 <br>
-            2.核心原理分析
-        </td>    
-    </tr>
-    <tr>
-        <td>Kafka</td>
-        <td>
-            1.架构 <br>
-            2.producer <br>
-            3.Consumer <br>
-            4.问题-解决记录 <br>
-            5.面试题 <br>
-            6.顺序消费问题 <br>
-            7.时间轮算法 <br>
-            8.消息补偿机制 <br>
-            9.testing <br>
-        </td>    
-    </tr>
-    <tr>
-        <td>Redis</td>
-        <td>
-            1.基础架构 <br>
-            2.数据结构 <br>
-            3.布隆过滤器 <br>
-            4.缓存雪崩-缓存穿透 <br>
-            5.过期策略和内存淘汰机制 <br>
-            6.持久化 <br>
+            1.Core <br />
+            2.Kyma <br />
+            3.Deploy-workflow <br />
+            4.Network <br /> 
         </td>
     </tr>
     <tr>
-        <td>API GateWay</td>
+        <td>Istio</td>
         <td>
-            1.基本功能与定位
+            Core <br />
         </td>
     </tr>
     <tr>
-        <td>Apache Camel</td>
+        <td>CloudFoundry</td>
         <td>
-            1.基本功能与定位
+            Core <br />
         </td>
-    </tr>  
-    <tr>
-        <td>Apache Cassandra</td>
-        <td>
-            1.core <br>
-            2.内部机制 <br>
-            3.clusters <br>
-        </td>
-    </tr>    
+    </tr>
     </th columnspan="3">
     <tr>
         <td rowspan="2">DataBase</td>
@@ -134,26 +95,13 @@
     </tr>
     </th columnspan="3">
     <tr>
-        <td rowspan="3">Cloud</td>
-        <td>Kubernetes</td>
+        <td rowspan="1">Design</td>    
+        <td>DDD</td>
         <td>
-            1.Core <br />
-            2.Kyma <br />
-            3.Deploy-workflow <br />
-            4.Network <br /> 
-        </td>
-    </tr>
-    <tr>
-        <td>Istio</td>
-        <td>
-            1.Core <br />
-        </td>
-    </tr>
-    <tr>
-        <td>CloudFoundry</td>
-        <td>
-            1.Core <br />
-        </td>
+            1.概念梳理 <br>
+            2.flow <br> 
+            3.UML  <br>
+        </td>  
     </tr>
     </th columnspan="3">
     <tr>
@@ -218,6 +166,78 @@
             4.Koa  <br />
             5.Egg  <br />
             6.PM2-多进程管理器 <br /> 
+        </td>
+    </tr>
+    </th columnspan="3">
+    <tr>
+        <td rowspan="1">Linux</td>    
+        <td>TODO</td>
+        <td>
+            概念梳理 <br>
+            TODO
+        </td>  
+    </tr>
+    </th columnspan="3">
+    <tr>
+        <td rowspan="6">MiddleWare</td>
+        <td>Apache Camel</td>
+        <td>
+            1.基本功能与定位
+        </td>    
+    </tr>
+    <tr>
+        <td>API GateWay</td>
+        <td>
+            1.基本功能与定位
+        </td>
+    </tr>
+    <tr>
+        <td>Apache Cassandra</td>
+        <td>
+            1.core <br>
+            2.内部机制 <br>
+            3.clusters <br>
+        </td>
+    </tr> 
+    <tr>
+        <td>Elastic Stack</td>
+        <td>
+            1.架构 <br>
+            2.核心原理分析
+        </td>
+    </tr>
+    <tr>
+        <td>Kafka</td>
+        <td>
+            1.架构 <br>
+            2.producer <br>
+            3.Consumer <br>
+            4.问题-解决记录 <br>
+            5.面试题 <br>
+            6.顺序消费问题 <br>
+            7.时间轮算法 <br>
+            8.消息补偿机制 <br>
+            9.testing <br>
+        </td>    
+    </tr>
+    <tr>
+        <td>Redis</td>
+        <td>
+            1.基础架构 <br>
+            2.数据结构 <br>
+            3.布隆过滤器 <br>
+            4.缓存雪崩-缓存穿透 <br>
+            5.过期策略和内存淘汰机制 <br>
+            6.持久化 <br>
+        </td>
+    </tr>     
+    </th columnspan="3">
+    <tr>
+        <td rowspan="1">Security</td>
+        <td>front_end</td>
+        <td>
+            core <br>
+            TODO
         </td>
     </tr>
     </th columnspan="3">
