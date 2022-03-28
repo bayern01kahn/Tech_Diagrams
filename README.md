@@ -1,9 +1,9 @@
-# Tech_Diagrams  技术图鉴
-* 基于 [Drawio](https://github.com/jgraph/drawio-desktop)
+# :fire:  :gift:  Tech_Diagrams  技术图鉴
+* :books: 基于 [Drawio](https://github.com/jgraph/drawio-desktop)  :rocket: :cn: 
   Based on Drawio
-* 个人收集和总结的所涉及到的一些全端技术流程分析,组织架构图
+* :memo: 个人收集和总结的所涉及到的一些全端技术流程分析,组织架构图
   Personal summarise and collect all-side Techical and Architecture Diagram. 
-* 持续学习更新中
+* :dart: 持续学习更新中
   Keep updating
 
 <table>
